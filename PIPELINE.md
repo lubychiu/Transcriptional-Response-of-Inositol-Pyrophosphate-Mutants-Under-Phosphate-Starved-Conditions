@@ -1,7 +1,8 @@
-# Transcriptional Differences Between Inositol Pyrophosphate Pathway Mutants in Candida albicans Under Phosphate Starved Conditions
+# Transcriptional Differences Between Inositol Pyrophosphate Pathway Mutants in *Candida albicans* Under Phosphate Starved Conditions
 ## Visualizations
 Done in RStudio.
 
+### WT vs KCS1 analysis
 '''bash
 ############################################################
 # CANDIDA ALBICANS RNA-seq ANALYSIS
