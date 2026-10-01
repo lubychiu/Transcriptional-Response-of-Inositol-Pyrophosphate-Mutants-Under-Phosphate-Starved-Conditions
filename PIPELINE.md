@@ -3,8 +3,8 @@
 Done in RStudio.
 
 ### WT vs KCS1 analysis
+
 '''bash
-############################################################
 # CANDIDA ALBICANS RNA-seq ANALYSIS
 #
 # EXPERIMENT:
